@@ -1,0 +1,17 @@
+[Domain]
+Name=ctlos-settings-manager
+Name[x-test]=xxctlos-settings-managerxx
+Icon=kauth-example
+URL=https://github.com/ctlos/ctlos-settings-manager
+
+[org.ctlos.msm.mhwd.install]
+Name=Install MHWD Configuration
+Description=Install MHWD Configuration
+Policy=auth_admin
+Persistence=session
+
+[org.ctlos.msm.mhwd.remove]
+Name=Remove MHWD Configuration
+Description=Remove MHWD Configuration
+Policy=auth_admin
+Persistence=session

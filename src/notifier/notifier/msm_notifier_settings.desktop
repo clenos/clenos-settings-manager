@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Ctlos Notifier Settings
+Name[da]=Ctlos-notifikatorindstillinger
+Name[fr]=Paramètres du Notifieur Ctlos
+Name[hu]=Ctlos Értesítő beállítások
+Name[pl]=Ustawienia powiadomień Ctlos
+Name[sk]=Nastavenia oznámení systému Ctlos
+
+Comment=Graphical Settings for Ctlos Notifier
+Comment[da]=Grafiske indstillinger til Ctlos-notifikator
+Comment[de]=Grafische Einstellungsverwaltung für Ctlos
+Comment[fr]=Gestionnaire graphique de paramètres pour Notifieur Ctlos
+Comment[hu]=A Ctlos Notifier értesítéseinek beállítása
+Comment[pl]=Graficzne ustawienia powiadomień systemu Ctlos
+Comment[sk]=Grafické nastavenia oznámení pre systém Ctlos
+
+Exec=msm_notifier --settings
+Icon=preferences-desktop
+Terminal=false
+Type=Application
+Categories=Settings;DesktopSettings;X-LXDE-Settings;X-XFCE-SettingsDialog;X-KDE-Settings;X-XFCE-SystemSettings;

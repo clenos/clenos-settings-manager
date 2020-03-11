@@ -1,0 +1,78 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Service
+Icon=audio-card
+Exec=kcmshell5 msm_mhwd
+
+X-KDE-Library=msm_mhwd
+X-KDE-ServiceTypes=KCModule
+X-KDE-System-Settings-Parent-Category=ctlos
+X-KDE-ParentApp=kcontrol
+X-KDE-PluginKeyword=msm_mhwd
+X-KDE-Keywords=hardware
+X-KDE-Keywords[x-test]=xxhardwarexx
+Categories=Qt;KDE;X-KDE-settings-system;ctlos
+
+Name=Hardware Configuration
+Name[ca]=Configuració del maquinari
+Name[cs_CZ]=Nastavení hardware
+Name[da]=Hardwarekonfiguration
+Name[de]=Hardwarekonfiguration
+Name[el]=Ρύθμιση υλικού
+Name[es]=Configuración de hardware
+Name[es_419]=Configuración de Hardware
+Name[fa_IR]=پیکربندی سخت افزار
+Name[fi]=Laitteiston asetukset
+Name[fr]=Configuration Matérielle
+Name[hr]=Konfiguracija sklopovlja
+Name[hu]=Hardware Konfiguráció
+Name[is]=Vélbúnaðar stillingar
+Name[it]=Configurazione Hardware
+Name[ja]=ハードウェアの設定
+Name[lt]=Aparatinės įrangos konfigūravimas
+Name[nb]=Maskinvareoppsett
+Name[nl]=Hardware Configuratie
+Name[pl]=Konfiguracja sprzętowa
+Name[pt_BR]=Configuração de Hardware
+Name[pt_PT]=Configuração do Hardware
+Name[ro]=Configurare Hardware
+Name[ru]=Конфигурация оборудования
+Name[sk_SK]=Konfigurácia hardvéru
+Name[sl]=Strojna nastavitev
+Name[sv]=Hårdvarukonfiguration
+Name[tr]=Donanım Yapılandırma Aracı
+Name[uk]=Конфігурація обладнання
+Name[zh_CN]=硬件设定
+Name[zh_TW]=硬體設定
+
+Name[ast]=Configuración de Hardware
+
+
+Comment=Ctlos Hardware Detection graphical user interface
+Comment[ca]=Interfície d'usuari gràfica per a la Detecció de maquinari del Ctlos
+Comment[da]=Ctlos hardwareregistrering grafisk brugerflade
+Comment[de]=Grafische Benutzeroberfläche der Ctlos-Hardwareerkennung
+Comment[es]=Interfaz gráfica de usuario para Ctlos Hardware Detection
+Comment[es_419]=Interfaz gráfica de Detección de Hardware de Ctlos
+Comment[fa_IR]=تشخیص سخت افزاری رابط گرافیکی کاربر مانجارو
+Comment[fi]=Ctlos laitteiston tunnistuksen graaffinen käyttöliittymä
+Comment[fr]=Interface utilisateur de détection matérielle de Ctlos
+Comment[hr]=Grafičko korisničko sučelje za Ctlos Hardware Detection
+Comment[hu]=Ctlos Hardware Érzékelés grafikus felhasználói felület
+Comment[is]=Ctlos vélbúnaðar greining með grafísku notendaviðmóti
+Comment[it]=Interfaccia grafica di Ctlos Hardware Detection
+Comment[ja]=Ctlos Hardware Detection graphical user interface
+Comment[lt]=Ctlos aparatinės įrangos aptikimo grafinė naudotojo sąsaja
+Comment[nb]=Grensesnitt for Ctlos Hardware Detection
+Comment[pl]=Graficzny interfejs użytkownika wykrywania sprzętu Ctlos
+Comment[pt_BR]=Interface Gráfica do Usuário Ctlos Hardware Detection
+Comment[pt_PT]=Ctlos Hardware Detection interface gráfica do utilizador
+Comment[ro]=Interfața grafică de detectare hardware a sistemului Ctlos
+Comment[ru]=Графический интерфейс Ctlos Hardware Detection
+Comment[sk_SK]=Grafické rozhranie pre rozpoznanie hardvéru systému Ctlos
+Comment[sl]=Ctlos strojna zaznava grafičnega vmesnika
+Comment[sv]=Ctloss hårdvarudetekteringsverktyg
+Comment[tr]=MHWD - Ctlos Donanım Yapılandırma grafik arayüzü
+Comment[uk]=Ctlos виявлено обладнання графічний користувальницький інтерфейс
+Comment[zh_CN]=使用 Ctlos 硬件侦测图形用户界面
+Comment[zh_TW]=Ctlos 硬體偵測圖形使用者介面

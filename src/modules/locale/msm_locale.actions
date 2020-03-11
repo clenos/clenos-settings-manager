@@ -1,0 +1,11 @@
+[Domain]
+Name=ctlos-settings-manager
+Name[x-test]=xxctlos-settings-managerxx
+Icon=kauth-example
+URL=https://github.com/ctlos/ctlos-settings-manager
+
+[org.ctlos.msm.locale.save]
+Name=Save Locale Settings
+Description=Save Locale Settings
+Policy=auth_admin
+Persistence=session
