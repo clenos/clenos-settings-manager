@@ -47,7 +47,7 @@ You can also use the provided PKGBUILD to compile and install it.
 
 ### EXECUTION
 
-Now the build is complete and you can run it using `msm` command in terminal.
+Now the build is complete and you can run it using `ctlos-settings-manager` command in terminal.
 
 It will also show up the new kcm modules in kde's systemsettings or issuing the command:
 `kcmshell5 msm_{kernel,keyboard,language_packages,locale,mhwd,notifications,timedate,users}`
